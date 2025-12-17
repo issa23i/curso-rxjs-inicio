@@ -1,10 +1,1 @@
-
-
-console.log('Hola Mundo!');
-
-
-
-
-
-
-
+console.log("Inicio curso RXJS");
